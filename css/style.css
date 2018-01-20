@@ -1,0 +1,21 @@
+body {
+  background-color: silver;}
+  .style {
+     width: 500px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+   
+}
+h3{
+  
+  color:rgb(0,0,255);
+font-size:15px;}
+p{
+  font-family:system-ui;
+  
+}
+
+.career{
+  background-color:rgb(150,0,150);
+}
